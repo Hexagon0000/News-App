@@ -9,7 +9,7 @@ const fetchNews = async (page, q) => {
         'language=en&' +
         'page=' + page + '&' +
         'sortBy=popularity&' +
-        'apiKey=03c0a9813b704119bededf95f94e568f';
+        'apiKey=YOUR_API_KEY_HERE';
 
     var req = new Request(url);
 
