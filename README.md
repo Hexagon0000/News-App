@@ -61,10 +61,6 @@ const fetchNews = async (page, q) => {
 - **Search**: Enter a query in the search box to find specific articles.
 - **Navigation**: Use "Next" and "Previous" buttons to navigate through the pages of articles.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or feedback, please feel free to reach out:
