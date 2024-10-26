@@ -61,16 +61,6 @@ const fetchNews = async (page, q) => {
 - **Search**: Enter a query in the search box to find specific articles.
 - **Navigation**: Use "Next" and "Previous" buttons to navigate through the pages of articles.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to fork the repository and submit a pull request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -79,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, please feel free to reach out:
 
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Your Name - [ahmedefepetekk@gmail.com](mailto:ahmedefepetekk@gmail.com)
+- GitHub: [Hexagon0000](https://github.com/Hexagon0000)
